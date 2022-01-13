@@ -49,8 +49,6 @@ public class Prototype {
 
         // 직거래
         buyer.directTransaction(tempItemNo);
-
-        //teststest
     }
 }
 
